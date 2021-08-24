@@ -1,0 +1,82 @@
+body{
+  background-image: url(background.jpg);
+  padding: 25px;
+  background-repeat: no-repeat;
+  background-size: 1500px 900px;
+}
+
+
+
+img{
+  width: 250px;
+  height: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.Int{
+  color: #00FF00;
+  text-align: center;
+  display: block;
+  font-family: sans-serif;
+}
+
+.Corpo{
+  background: rgba(0, 0, 0, 0.5);
+  margin-left: 180px;
+  margin-right: 180px;
+
+}
+
+
+nav{
+  text-align: center;
+  display: block;
+  background-color:  #00FF00;
+  padding: 6px;
+  margin-left: 180px;
+  margin-right: 180px;
+}
+
+.Monopattino{
+
+  text-align: left;
+  margin-left: 200px;
+  color: white;
+
+}
+
+.carica1{
+  background-color: orange;
+  width: 35%;
+  display: inline-block;
+
+
+}
+
+.carica2{
+  background-color: green;
+  width: 60%;
+  display: inline-block;
+
+}
+
+.carica3{
+  background-color: red;
+  width: 10%;
+  display: inline-block;
+
+}
+
+.font1{
+    font-family: monospace;
+    font-size: 20px;
+
+
+}
+
+.font2{
+     font-family: sans-serif;
+
+}
